@@ -16,7 +16,7 @@ public class NovoTesteGit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Exemplo de projeto com Git ... agora o trem ficou feio");
+        System.out.println("Exemplo de projeto com Git -- modifcado por Hélder ... agora o trem ficou feio");
         System.out.println("Linha escrita por minicursomonetizacao");
         System.out.println("Mais uma linha!");
     }
