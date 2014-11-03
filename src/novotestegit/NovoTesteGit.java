@@ -17,6 +17,7 @@ public class NovoTesteGit {
      */
     public static void main(String[] args) {
         System.out.println("Exemplo de projeto com Git");
+        System.out.println("Linha escrita por minicursomonetizacao");
     }
     
 }
